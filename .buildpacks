@@ -1,2 +1,3 @@
-https://github.com/1024pix/matomo-buildpack#v4.2.1
-https://github.com/Scalingo/php-buildpack
+https://github.com/Scalingo/apt-buildpack
+https://github.com/VSerain/matomo-buildpack#v5.0.1
+https://github.com/VSerain/php-buildpack
